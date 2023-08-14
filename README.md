@@ -3,11 +3,11 @@
 
 This repository includes a collection of code and scripts used in the paper "Plasmid and anti-plasmid systems drive molecular evolution of an epidemic multidrug resistant Klebsiella pneumoniae clone".
 ## 1. Softwares
-- [Perl] (https://www.perl.org/) 
-- [Python] (https://www.python.org/)
-- [R] (https://www.r-project.org/)
-- [SPAdes] (https://github.com/ablab/spades) v3.13.0
-- [Kleborate] (https://github.com/klebgenomics/Kleborate) v2.3.2
+- [Perl](https://www.perl.org/) 
+- [Python](https://www.python.org/)
+- [R](https://www.r-project.org/)
+- [SPAdes](https://github.com/ablab/spades) v3.13.0
+- [Kleborate](https://github.com/klebgenomics/Kleborate) v2.3.2
 - [mlst](https://github.com/tseemann/mlst) v2.22
 - [AMRFinderPlus](https://github.com/ncbi/amr) v3.10.20
 - [ARIBA](https://github.com/sanger-pathogens/ariba) v2.14.6
