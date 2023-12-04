@@ -33,7 +33,12 @@ This repository includes a collection of code and scripts used in the paper "Pla
 All assembled Illumina sequence data have been deposited in GenBank under the BioProject accession number [PRJNA549322](https://www.ncbi.nlm.nih.gov/bioproject?LinkName=nuccore_bioproject&from_uid=1879540806).
 
 ## 3. Commands
-
+Take the 44383 isolate as an example.
+1. Assembly
+  SPAdes
+```
+spades.py -1 44383_R1.fastq.gz -2 44383_R2.fastq.gzz --cov-cutoff auto -o 44383
+``` 
 
 
 
