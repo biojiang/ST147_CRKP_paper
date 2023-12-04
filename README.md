@@ -9,9 +9,11 @@ This repository includes a collection of code and scripts used in the paper "Pla
 - [BLAST](https://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/) v2.12.0
 - [BactDating](https://github.com/xavierdidelot/BactDating) v1.1
 - [bwa](https://bio-bwa.sourceforge.net/bwa.shtml) v0.7.17
+- [bedtools](https://github.com/arq5x/bedtools2) v2.30.0
 - [cctyper](https://github.com/Russel88/CRISPRCasTyper) v1.8.0
 - [CD-HIT](http://weizhongli-lab.org/cd-hit/) v4.8.1
 - [coda](https://cran.r-project.org/web/packages/coda/index.html) v0.19
+- [dereplicator](https://github.com/rrwick/Assembly-Dereplicator) v0.3.2
 - [Easyfig](https://mjsull.github.io/Easyfig/) v2.2.2
 - [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html) v3.4.4
 - [Gubbins](https://github.com/nickjcroucher/gubbins) v3.0.0
@@ -19,6 +21,7 @@ This repository includes a collection of code and scripts used in the paper "Pla
 - [Kleborate](https://github.com/klebgenomics/Kleborate) v2.3.2
 - [LongRepMarker](https://github.com/Xingyu-Liao/LongRepMarker_v2.0) v2.1.2
 - [minicoda](https://docs.conda.io/projects/miniconda/en/latest/) v23.1.0
+- [minimap2](https://github.com/lh3/minimap2) v2.26
 - [MUMmer](https://github.com/mummer4/mummer) v4.0.0
 - [mlst](https://github.com/tseemann/mlst) v2.22
 - [PHASTEST](https://phaster.ca/)
@@ -29,6 +32,7 @@ This repository includes a collection of code and scripts used in the paper "Pla
 - [RAxML](https://github.com/amkozlov/raxml-ng) v1.0.1
 - [Snippy](https://github.com/tseemann/snippy) v4.6.0
 - [SPAdes](https://github.com/ablab/spades) v3.13.0
+- [samtools](https://github.com/samtools/samtools) v1.16.1
 - [wgsim](https://github.com/lh3/wgsim)
 
 ## 2. Dataset
@@ -39,7 +43,7 @@ Take the 44383 isolate as an example.
 - Assembly
 ```
 #SPAdes
-spades.py -1 44383_R1.fastq.gz -2 44383_R2.fastq.gzz --cov-cutoff auto -o 44383
+spades.py -1 44383_R1.fastq.gz -2 44383_R2.fastq.gz --cov-cutoff auto -o 44383
 ``` 
 - Genome annotation
 ```
@@ -59,7 +63,7 @@ mlst 44383.fasta
 - AMR genes detection
 ```
 #AMRFinderPlus
-amrfinder -p 44383.faa -g 44383.gff -n 44383.fasta -O 44383 --plus
+amrfinder -p 44383.faa -g 44383.gff -n 44383.fasta -O annotation_dir/44383 --plus
 
 #ARIBA
 ariba getref ncbi out.ncbi
@@ -136,16 +140,35 @@ save(res,file=rname);
 - Analysis of self-targeting spacers
 ```
 #Type I-E CRISPR-Cas
-perl SelfTagetedSpacersBlastn.pl genome_dir IE_self_targeted_spacers_blast I-E
-perl getSelfTargetedStrains.pl strain.list IE_self_targeted_spacers_blast > I-E.SelfTargetedStrain.lsit
+perl SelfTagetedSpacersBlastn.pl genome_dir IE_self_targeted_spacers_blast_dir I-E
+perl getSelfTargetedStrains.pl strain.list IE_self_targeted_spacers_blast_dir > I-E.SelfTargetedStrain.lsit
 #Type IV-A3 CRISPR-Cas
-perl SelfTagetedSpacersBlastn.pl genome_dir IVA3_self_targeted_spacers_blas IV-A3
-perl getSelfTargetedStrains.pl strain.list IVA3_self_targeted_spacers_blas > IV-A3.SelfTargetedStrain.lsit
+perl SelfTagetedSpacersBlastn.pl genome_dir IVA3_self_targeted_spacers_blast_dir IV-A3
+perl getSelfTargetedStrains.pl strain.list IVA3_self_targeted_spacers_blast_dir > IV-A3.SelfTargetedStrain.lsit
 ```
 - Synteny analysis of self-targeting sequence and carbapenemas-encoding genes
 ```
+#minimap2
+minimap2 -x asm5 -t 60 NCBI.Kp.plasmid.fasta 44383.fasta > minimap_dir/44383.plasmid.map
+
+#bwa, samtools and bedtools
+bwa index 44383.fasta
+bwa mem -t 32 44383.fasta 44383_R1.fastq.gz -2 44383_R2.fastq.gz|samtools view -b -F 4 --threads 8 - | samtools sort --threads 8 - | bedtools genomecov -ibam - -dz > ./coverage_dir/44383.cov.bed
+
 #LongRepMarker
-java LongRepMarker -r 44383.fasta -o 44383.repeat
+java LongRepMarker -r 44383.fasta -o repeat_dir/44383.repeat
+
+#Type I-E CRISPR-Cas self targeted spacers
+perl getDirectEvidence.pl IE_self_targeted_spacers_blast_dir > IE_self_targeted_spacers.carb.Direct.evidence
+perl getCoverageEvidence.pl coverage_dir repeat_dir annotation_dir IE_self_targeted_spacers_blast_dir
+perl getPlasmidEvidence.pl IE_self_targeted_spacers_blast_dir minimap_dir > IE_self_targeted_spacers.carb.Plasmid.evidence
+perl CombineEvidence.pl IE_self_targeted_spacers.carb.Direct.evidence IE_self_targeted_spacers.carb.Plasmid.evidence IE_self_targeted_spacers.carb.Coverage.evidence > IE_self_targeted_spacers.carb.Synteny.tab
+
+#Type IV-A3 CRISPR-Cas self targeted spacers
+perl getDirectEvidence.pl IVA3_self_targeted_spacers_blast_dir > IVA3_self_targeted_spacers.carb.Direct.evidence
+perl getCoverageEvidence.pl coverage_dir repeat_dir annotation_dir IVA3_self_targeted_spacers_blast_dir
+perl getPlasmidEvidence.pl IVA3_self_targeted_spacers_blast_dir minimap_dir > IVA3_self_targeted_spacers.carb.Plasmid.evidence
+perl CombineEvidence.pl IVA3_self_targeted_spacers.carb.Direct.evidence IVA3_self_targeted_spacers.carb.Plasmid.evidence IVA3_self_targeted_spacers.carb.Coverage.evidence > IVA3_self_targeted_spacers.carb.Synteny.tab
 ```
 - Genome dereplication
 ```
