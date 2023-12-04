@@ -133,3 +133,18 @@ print(paste('1e8',res$dic))
 #save records
 save(res,file=rname);
 ```
+- Analysis of self-targeting spacers
+```
+
+```
+- Synteny analysis of self-targeting sequence and carbapenemas-encoding genes
+```
+#LongRepMarker
+java LongRepMarker -r 44383.fasta -o 44383.repeat
+```
+- Genome dereplication
+```
+dereplicator.py --distance 0.0001 genome_dir derep_0.0001
+```
+
+
