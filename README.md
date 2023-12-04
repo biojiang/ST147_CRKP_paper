@@ -20,8 +20,8 @@ This repository includes a collection of code and scripts used in the paper "Pla
 - [Snippy](https://github.com/tseemann/snippy)
 - [MUMmer](https://mummer.sourceforge.net/)
 - [Gubbins](https://github.com/nickjcroucher/gubbins) v3.0.0
-- RAxML
-- BactDating v1.1
+- [RAxML](https://github.com/amkozlov/raxml-ng) v1.0.1
+- [BactDating](https://github.com/xavierdidelot/BactDating) v1.1
 - coda
 - iTOL v5
 - ggplot2
