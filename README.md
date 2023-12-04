@@ -29,7 +29,8 @@ This repository includes a collection of code and scripts used in the paper "Pla
 - [SPAdes](https://github.com/ablab/spades) v3.13.0
 - [wgsim](https://github.com/lh3/wgsim)
 
-## 2. Softwares
+## 2. Dataset
+All assembled Illumina sequence data have been deposited in GenBank under the BioProject accession number [PRJNA549322](https://www.ncbi.nlm.nih.gov/bioproject?LinkName=nuccore_bioproject&from_uid=1879540806).
 
 
 
