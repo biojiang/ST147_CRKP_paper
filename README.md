@@ -135,7 +135,12 @@ save(res,file=rname);
 ```
 - Analysis of self-targeting spacers
 ```
-
+#Type I-E CRISPR-Cas
+perl SelfTagetedSpacersBlastn.pl genome_dir IE_self_targeted_spacers_blast I-E
+perl getSelfTargetedStrains.pl strain.list IE_self_targeted_spacers_blast > I-E.SelfTargetedStrain.lsit
+#Type IV-A3 CRISPR-Cas
+perl SelfTagetedSpacersBlastn.pl genome_dir IVA3_self_targeted_spacers_blas IV-A3
+perl getSelfTargetedStrains.pl strain.list IVA3_self_targeted_spacers_blas > IV-A3.SelfTargetedStrain.lsit
 ```
 - Synteny analysis of self-targeting sequence and carbapenemas-encoding genes
 ```
