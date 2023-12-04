@@ -1,0 +1,647 @@
+CTX-M	KPC	NDM	OXA-48-like	Klocus	Yersiniabactin	ST	Sample	Region	QRDR	CRISPR-IE	CRISPR-IV-A3	AcrIE8.1	AcrIE9.2	AcrIF11
+1	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Positive
+1	0	1	0	Other	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Positive
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;GyrA-87N;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;GyrA-87N;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	1	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;GyrA-87N;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+0	1	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Respiratory	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	1	0	0	KL27	Negative	ST392	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Positive
+1	0	0	1	KL64	Negative	ST147	Respiratory	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	0	KL64	ybt 16; ICEKp12	ST147	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+0	0	0	0	KL64	ybt 16; ICEKp12	ST147	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	1	0	0	KL10	Other	ST147	Blood	Other	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	ybt 9; ICEKp3	ST147	Respiratory	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 10; ICEKp4	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 10; ICEKp4	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 16; ICEKp12	ST147	Blood	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Respiratory	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	Other	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL64	ybt 10; ICEKp4	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+0	0	1	0	KL10	Negative	ST147	Blood	Other	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Negative	Positive
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL64	ybt 16; ICEKp12	ST147	Other	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	1	0	0	KL27	Negative	ST392	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL74	Negative	ST273	Rectal swab or stool	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 16; ICEKp12	ST147	Other	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	Other	Negative	ST273	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	1	0	0	KL27	Negative	ST392	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	1	0	0	KL27	Negative	ST392	Tissue	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	1	0	0	KL27	Negative	ST392	Blood	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL64	ybt 16; ICEKp12	ST147	Other	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	1	0	0	KL27	Negative	ST392	Blood	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Other	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Other	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Respiratory	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+0	0	0	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	0	KL107	Negative	ST392	Urine	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	0	0	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL107	Negative	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;GyrA-87N;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Respiratory	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	KL107	ybt 16; ICEKp12	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	1	0	0	KL107	ybt 16; ICEKp12	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	1	0	0	KL64	Negative	ST147	Blood	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	1	0	0	Other	ybt 16; ICEKp12	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	KL64	Negative	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	0	0	Other	Negative	ST147	Other	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	1	0	0	KL74	Negative	ST273	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	1	0	0	KL27	Negative	ST392	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	Other	Negative	ST273	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	Other	ybt 16; ICEKp12	ST147	Urine	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Respiratory	Western_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	0	KL64	ybt 16; ICEKp12	ST147	Respiratory	Western_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Rectal swab or stool	Western_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	0	KL27	Negative	ST392	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Eastern_Europe	GyrA-83I;GyrA-87N;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	ybt 16; ICEKp12	ST147	Rectal swab or stool	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	ybt 16; ICEKp12	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Tissue	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL27	Negative	ST392	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	1	1	KL64	ybt 9; ICEKp3	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL81	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	0	0	KL64	ybt 9; ICEKp3	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	1	KL10	Negative	ST147	Urine	Eastern_Europe	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	1	0	KL20	Negative	ST147	Respiratory	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	1	KL10	Negative	ST147	Respiratory	Eastern_Europe	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Positive	Positive	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	1	0	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	1	0	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+0	1	0	0	KL64	ybt 16; ICEKp12	ST147	Other	Southern_Europe	Other	Positive	Negative	Negative	Negative	Negative
+0	1	0	0	KL64	ybt 16; ICEKp12	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	1	0	0	KL64	ybt 16; ICEKp12	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	1	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	1	0	0	KL64	ybt 16; ICEKp12	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	1	0	0	KL64	ybt 16; ICEKp12	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	ybt 16; ICEKp12	ST147	Respiratory	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL27	Negative	ST392	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	0	1	KL81	Negative	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	1	0	0	KL27	Negative	ST392	Blood	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL81	Negative	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL64	Negative	ST147	Urine	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL27	Other	ST392	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	1	0	0	KL27	Negative	ST392	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Positive
+0	0	0	0	KL64	Negative	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	1	KL10	ybt 10; ICEKp4	ST147	Other	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	0	Other	Other	ST273	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Positive
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	1	KL10	Negative	ST147	Other	Eastern_Europe	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	0	1	KL27	Negative	ST392	Blood	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	1	KL10	Negative	ST147	Blood	Western_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Respiratory	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+0	0	0	0	KL64	ybt 10; ICEKp4	ST147	Urine	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	1	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;GyrA-87N;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	0	1	Other	ybt 16; ICEKp12	ST147	Urine	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	1	0	KL64	Other	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;GyrA-87N;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Respiratory	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;GyrA-87N;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	1	KL27	Negative	ST392	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;GyrA-87N;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL81	Negative	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL74	Negative	ST273	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	1	0	0	KL10	Other	ST147	Blood	Other	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	1	0	0	KL10	Other	ST147	Blood	Other	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	KL10	Other	ST147	Blood	Other	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+0	0	0	0	KL64	Negative	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	1	KL10	Negative	ST147	Blood	Other	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Negative	Positive
+1	0	1	0	KL64	Negative	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	0	1	0	KL10	Negative	ST147	Blood	Other	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Negative	Positive
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL107	Negative	ST392	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL81	Negative	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	1	KL64	ybt 9; ICEKp3	ST147	Respiratory	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL64	Negative	ST147	Tissue	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	1	0	0	KL64	Negative	ST147	Urine	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL27	Negative	ST147	Urine	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	1	0	0	KL64	Negative	ST147	Respiratory	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	1	0	KL64	Negative	ST147	Other	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Other	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	1	0	0	KL74	ybt 9; ICEKp3	ST273	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	0	1	0	KL64	ybt 16; ICEKp12	ST147	Other	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	1	0	0	KL74	Negative	ST273	Urine	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	KL64	Negative	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	ybt 10; ICEKp4	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	1	0	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	0	KL64	ybt 9; ICEKp3	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	0	KL74	Negative	ST273	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL27	Negative	ST392	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Blood	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	0	1	KL64	Negative	ST147	Urine	Southern_Europe	Other	Positive	Positive	Positive	Negative	Negative
+0	1	0	0	KL107	ybt 16; ICEKp12	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	Other	Negative	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	1	0	0	Other	Negative	ST273	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	KL107	ybt 16; ICEKp12	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	1	0	KL10	Negative	ST147	Other	Northern_America	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	0	1	KL10	ybt 10; ICEKp4	ST147	Other	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL74	Negative	ST273	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL106	Negative	ST147	Urine	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	1	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL74	Negative	ST147	Other	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	0	0	KL74	Negative	ST147	Other	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	1	0	0	KL107	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+0	1	0	0	KL10	Other	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL10	ybt 10; ICEKp4	ST147	Urine	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL10	Negative	ST147	Urine	Other	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Positive
+1	0	1	1	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL27	Negative	ST392	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Other	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL10	ybt 10; ICEKp4	ST147	Other	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	0	0	0	KL27	Negative	ST392	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Western_Asia	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	1	0	0	KL10	Negative	ST147	Urine	Western_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	1	KL10	Negative	ST147	Other	Western_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Positive	Positive	Negative	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;GyrA-87N;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL107	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Northern_America	Other	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;GyrA-87N;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL107	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 16; ICEKp12	ST147	Other	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	1	0	0	Other	ybt 16; ICEKp12	ST147	Rectal swab or stool	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	1	0	0	KL64	ybt 16; ICEKp12	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Blood	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	1	0	0	KL64	Negative	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	1	KL64	ybt 10; ICEKp4	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL10	ybt 10; ICEKp4	ST147	Other	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+0	1	0	0	KL27	Negative	ST392	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Positive
+1	0	0	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+0	1	0	0	KL64	Negative	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+0	0	0	0	KL74	Negative	ST273	Respiratory	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Respiratory	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+0	0	0	0	KL74	Negative	ST273	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL27	Negative	ST392	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	1	0	Other	Negative	ST147	Tissue	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL10	Other	ST147	Other	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	1	0	KL81	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	0	1	KL64	Negative	ST147	Blood	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL27	Negative	ST392	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL10	Negative	ST147	Other	Western_Europe	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 16; ICEKp12	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	0	0	KL74	Negative	ST273	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL81	Negative	ST147	Rectal swab or stool	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 10; ICEKp4	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	KL64	Negative	ST147	Urine	Western_Europe	GyrA-83I;GyrA-87N;ParC-80I	Positive	Positive	Positive	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL74	Negative	ST273	Respiratory	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Positive
+0	1	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	South-eastern_Asia	Other	Positive	Negative	Positive	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	KL64	Negative	ST147	Blood	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL64	Negative	ST147	Respiratory	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL64	ybt 9; ICEKp3	ST147	Blood	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	1	KL27	Negative	ST392	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Respiratory	Western_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+0	1	0	0	KL107	Other	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+0	0	0	0	KL64	ybt 9; ICEKp3	ST147	Tissue	Western_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	0	0	KL64	ybt 9; ICEKp3	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	0	0	KL27	Negative	ST392	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL74	ybt 10; ICEKp4	ST273	Other	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	ybt 9; ICEKp3	ST147	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	ybt 16; ICEKp12	ST147	Urine	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL27	Negative	ST392	Rectal swab or stool	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	1	0	0	KL10	Negative	ST147	Other	Northern_America	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	Other	Negative	ST147	Rectal swab or stool	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	KL74	Negative	ST273	Urine	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 16; ICEKp12	ST147	Other	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	1	0	KL20	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+0	0	0	0	KL10	Negative	ST147	Other	Southern_Europe	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+0	0	0	0	KL64	Negative	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 16; ICEKp12	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL10	Negative	ST147	Other	Southern_Europe	Other	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Rectal swab or stool	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	0	0	KL64	ybt 9; ICEKp3	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL20	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;GyrA-87N;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	ybt 9; ICEKp3	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;GyrA-87N;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	1	0	0	KL64	ybt 9; ICEKp3	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL10	Negative	ST147	Other	Western_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	KL107	ybt 16; ICEKp12	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Respiratory	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Blood	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	1	0	0	KL64	Negative	ST147	Urine	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Blood	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Blood	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Other	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	ybt 10; ICEKp4	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL10	ybt 10; ICEKp4	ST147	Other	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	0	0	KL27	Negative	ST392	Other	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	0	0	0	KL74	Negative	ST273	Rectal swab or stool	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	0	1	KL74	ybt 9; ICEKp3	ST273	Urine	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	1	Other	Other	ST273	Urine	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+0	1	0	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL27	Negative	ST392	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL64	ybt 16; ICEKp12	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	0	KL27	Negative	ST392	Blood	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL10	Negative	ST147	Urine	Western_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL74	Negative	ST273	Other	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL10	ybt 10; ICEKp4	ST147	Other	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL10	ybt 10; ICEKp4	ST147	Rectal swab or stool	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Respiratory	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	1	0	KL27	Negative	ST392	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	ybt 10; ICEKp4	ST147	Rectal swab or stool	Western_Asia	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Respiratory	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	1	0	0	KL64	ybt 16; ICEKp12	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	KL64	ybt 16; ICEKp12	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	1	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	1	0	0	KL64	ybt 16; ICEKp12	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	1	0	0	KL64	ybt 16; ICEKp12	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	1	0	0	Other	ybt 16; ICEKp12	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	1	1	0	KL107	ybt 10; ICEKp4	ST147	Other	Western_Europe	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Rectal swab or stool	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	Negative	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	1	0	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	1	0	0	KL64	Negative	ST147	Blood	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Blood	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Other	Northern_America	Other	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL10	ybt 10; ICEKp4	ST147	Rectal swab or stool	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	1	0	0	KL74	Negative	ST273	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Positive
+1	0	0	1	KL10	ybt 10; ICEKp4	ST147	Other	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	Other	ybt 16; ICEKp12	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	0	1	KL64	ybt 16; ICEKp12	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+0	1	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL10	Negative	ST147	Blood	Other	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL10	Negative	ST147	Blood	Other	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	0	KL64	ybt 10; ICEKp4	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	ybt 10; ICEKp4	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Respiratory	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL10	Negative	ST147	Respiratory	Western_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL20	Negative	ST147	Urine	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	1	0	KL64	Negative	ST147	Blood	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Rectal swab or stool	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Positive
+1	0	0	1	KL10	Negative	ST147	Respiratory	Eastern_Europe	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	0	0	KL27	Negative	ST392	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	1	KL64	Negative	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL64	Negative	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Positive
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Positive
+1	0	0	0	KL27	Negative	ST392	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL64	ybt 16; ICEKp12	ST147	Rectal swab or stool	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL10	ybt 10; ICEKp4	ST147	Other	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 16; ICEKp12	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;GyrA-87N;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL64	ybt 16; ICEKp12	ST147	Respiratory	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL27	Negative	ST392	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL64	Negative	ST147	Respiratory	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	1	0	0	KL27	Negative	ST392	Urine	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	0	0	KL64	ybt 9; ICEKp3	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL27	Negative	ST392	Respiratory	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	1	KL10	Negative	ST147	Blood	Other	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Negative	Positive
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Tissue	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	1	KL64	Negative	ST147	Respiratory	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	1	1	KL64	Negative	ST147	Urine	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 10; ICEKp4	ST147	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL27	Negative	ST392	Urine	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	1	0	0	KL64	Negative	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Rectal swab or stool	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	0	0	0	KL27	Negative	ST392	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Tissue	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	1	0	KL64	ybt 16; ICEKp12	ST147	Other	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	1	0	0	KL64	Negative	ST147	Urine	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	0	KL64	ybt 16; ICEKp12	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	1	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	0	0	Other	Negative	ST147	Other	Southern_Europe	Negative	Positive	Negative	Negative	Negative	Negative
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Positive
+0	0	0	0	KL64	ybt 9; ICEKp3	ST147	Respiratory	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Respiratory	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL74	Negative	ST273	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL106	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL107	ybt 9; ICEKp3	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Positive
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Positive
+1	0	0	1	KL64	Negative	ST147	Respiratory	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Respiratory	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	0	KL64	ybt 10; ICEKp4	ST147	Respiratory	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	Other	Negative	ST273	Urine	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	Other	Negative	ST273	Other	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	Other	Negative	ST273	Other	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	Other	Negative	ST273	Other	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	Other	Negative	ST273	Other	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	0	0	KL27	Negative	ST392	Respiratory	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	1	0	0	KL107	Negative	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Urine	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	1	0	0	KL107	ybt 16; ICEKp12	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	0	1	KL64	Negative	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	KL64	Negative	ST147	Blood	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	0	0	KL10	Negative	ST147	Other	Northern_America	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Blood	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+0	0	0	1	KL64	ybt 16; ICEKp12	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	0	Other	Negative	ST147	Urine	Northern_America	Other	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Blood	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	1	0	KL64	ybt 10; ICEKp4	ST147	Rectal swab or stool	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL27	Negative	ST392	Urine	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL10	ybt 10; ICEKp4	ST147	Other	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL81	Negative	ST147	Other	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	1	0	KL10	ybt 10; ICEKp4	ST147	Other	Northern_America	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	1	KL10	Negative	ST147	Urine	Other	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Positive	Positive
+1	0	0	1	KL10	Negative	ST147	Urine	Western_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Blood	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Rectal swab or stool	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Rectal swab or stool	Western_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	1	0	KL10	ybt 10; ICEKp4	ST147	Blood	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL10	ybt 10; ICEKp4	ST147	Blood	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL10	ybt 10; ICEKp4	ST147	Blood	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	0	0	0	KL64	ybt 16; ICEKp12	ST147	Respiratory	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL27	Negative	ST392	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	1	Other	Negative	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+0	0	0	0	Other	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	0	0	Other	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL106	Negative	ST147	Other	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	Other	Other	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Respiratory	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	1	0	KL107	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	1	0	KL107	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Rectal swab or stool	Northern_America	GyrA-83I;GyrA-87N;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL64	Negative	ST147	Respiratory	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+0	0	1	0	KL64	Negative	ST147	Respiratory	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	1	KL27	ybt 16; ICEKp12	ST392	Other	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+0	1	0	0	KL64	Negative	ST147	Respiratory	Western_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL27	ybt 16; ICEKp12	ST392	Other	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Positive
+1	1	0	0	KL27	Negative	ST392	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Respiratory	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL10	ybt 10; ICEKp4	ST147	Other	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	0	0	0	KL27	Negative	ST392	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Rectal swab or stool	Southern_Europe	GyrA-83I;GyrA-87N;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	0	KL27	Negative	ST392	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Positive
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Other	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	Other	Negative	ST273	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	1	0	0	KL27	Negative	ST392	Blood	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	0	0	0	KL20	Negative	ST147	Urine	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	1	KL10	ybt 10; ICEKp4	ST147	Respiratory	Western_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+0	0	0	0	KL64	Negative	ST147	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	0	KL27	Negative	ST392	Blood	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	0	1	1	KL64	Negative	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Other	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL64	Negative	ST147	Respiratory	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 10; ICEKp4	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	1	0	KL10	ybt 10; ICEKp4	ST147	Other	Other	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Rectal swab or stool	Other	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL74	Negative	ST273	Urine	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL27	Negative	ST392	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	0	1	KL64	Negative	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	0	0	1	KL10	Negative	ST147	Respiratory	Western_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	1	0	1	KL64	Negative	ST147	Respiratory	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	1	0	KL27	Negative	ST392	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	1	KL64	Negative	ST147	Respiratory	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	1	0	KL27	Negative	ST392	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	1	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	0	1	KL64	Negative	ST147	Respiratory	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	1	0	KL64	ybt 16; ICEKp12	ST147	Respiratory	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL27	Negative	ST392	Other	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+0	0	0	1	KL10	Negative	ST147	Urine	Western_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Blood	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL27	Negative	ST147	Blood	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	1	0	0	KL64	Negative	ST147	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	1	0	KL27	Negative	ST392	Respiratory	South-eastern_Asia	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+0	1	0	0	KL64	Negative	ST147	Blood	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	1	0	KL27	Negative	ST392	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	1	0	0	KL10	ybt 10; ICEKp4	ST147	Respiratory	South-eastern_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL64	ybt 10; ICEKp4	ST147	Urine	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Positive
+1	0	0	0	KL64	ybt 16; ICEKp12	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL27	Negative	ST392	Respiratory	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	0	1	KL64	Negative	ST147	Urine	Eastern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	0	KL27	Negative	ST392	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL10	Negative	ST147	Urine	Western_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL10	Negative	ST147	Urine	Western_Asia	GyrA-83Y;GyrA-87A;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	1	KL64	ybt 10; ICEKp4	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Positive
+0	0	0	0	KL107	Negative	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 16; ICEKp12	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	1	0	0	KL64	ybt 10; ICEKp4	ST147	Urine	Northern_America	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	1	0	0	KL64	Negative	ST147	Urine	Southern_Europe	GyrA-83I;GyrA-87N;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	1	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
+1	1	0	0	KL64	Negative	ST147	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	1	0	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	1	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;GyrA-87N;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+0	0	0	1	KL64	Negative	ST147	Urine	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	1	KL64	Negative	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+1	0	0	1	KL64	Negative	ST147	Urine	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Urine	Western_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 16; ICEKp12	ST147	Urine	Western_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Urine	Western_Europe	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Tissue	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Other	Southern_Europe	Other	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Tissue	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+0	0	0	0	KL64	Negative	ST147	Other	Southern_Europe	Other	Positive	Positive	Negative	Negative	Negative
+0	0	0	0	KL64	Negative	ST147	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+0	0	0	0	KL64	Negative	ST147	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Positive	Negative	Negative
+0	0	0	0	KL64	Negative	ST147	Urine	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL64	ybt 9; ICEKp3	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	0	1	KL64	ybt 9; ICEKp3	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Tissue	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL64	Negative	ST147	Tissue	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+1	0	1	0	KL27	Negative	ST392	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+0	0	1	0	KL64	ybt 10; ICEKp4	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 10; ICEKp4	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	1	0	KL64	ybt 9; ICEKp3	ST147	Urine	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Positive	Negative	Negative
+1	0	0	1	KL20	Negative	ST147	Respiratory	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL20	Negative	ST147	Other	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL20	Negative	ST147	Respiratory	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Negative	Negative	Negative
+1	0	0	1	KL27	Negative	ST392	Respiratory	Western_Asia	GyrA-83I;ParC-80I	Positive	Negative	Positive	Positive	Negative
+1	0	1	0	Other	Negative	ST147	Urine	Other	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+0	0	0	0	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Positive	Negative
+1	0	0	1	KL64	Negative	ST147	Other	Southern_Europe	GyrA-83I;ParC-80I	Positive	Negative	Negative	Positive	Negative
+0	0	0	0	KL64	Negative	ST147	Urine	Western_Europe	GyrA-83I;ParC-80I	Positive	Positive	Negative	Negative	Negative
+1	0	1	0	KL64	Negative	ST147	Other	Other	GyrA-83I;ParC-80I	Positive	Positive	Positive	Positive	Negative
