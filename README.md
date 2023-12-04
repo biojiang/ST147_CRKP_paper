@@ -78,5 +78,40 @@ perl getSpacers.pl
 cd-hit-est -i ST147.IE.spacers.fasta -o ST147.IE.spacers.unique.fasta -s 1 -aL 1
 ```
 
+- Plasmid replicon detection
+```
+#abricate
+abricate -db plasmidfinder --nopath --minid 95 --mincov 90 --quiet 44383.fasta > replicon/44383.tab
+```
 
+- Core SNP Phylogenetic analysis
+```
+#snippy
+# call SNPs for multiple isolates from the same reference KP16932.
+snippy-multi input.tab --ref Kp46564.gb  --cpu 64 > runme.sh
+# input.tab, a tab separated input file as follows
+# input.tab = ID assembly.fasta
+# Isolate	/path/to/contigs.fasta
+less runme.sh   # check the script makes sense
+sh ./runme.sh   # leave it running over lunch
 
+# remove all the "weird" characters and replace them with N
+snippy-clean_full_aln core.full.aln > clean.full.aln 
+
+# Gubbins
+# detect recombination region
+run_gubbins.py -c 64 -p gubbins clean.full.aln
+
+# remove recombination region
+snp-sites -c gubbins.filtered_polymorphic_sites.fasta > clean.core.aln
+# -c only output columns containing exclusively ACGT
+
+# RAxML
+# build core SNP tree
+raxmlHPC -f a -x 12345 -p 12345 -# 100 -m GTRGAMMAX -s clean.core.aln -n tree
+```
+- Dating phylogeny
+```
+#BactDating
+Rscript bactdating.R arc 1e8 date.txt ./gubbins/gubbins
+```
