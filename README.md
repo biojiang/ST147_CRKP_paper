@@ -10,6 +10,7 @@ This repository includes a collection of code and scripts used in the paper "Pla
 - [BactDating](https://github.com/xavierdidelot/BactDating) v1.1
 - [bwa](https://bio-bwa.sourceforge.net/bwa.shtml) v0.7.17
 - [cctyper](https://github.com/Russel88/CRISPRCasTyper) v1.8.0
+- [CD-HIT](http://weizhongli-lab.org/cd-hit/) v4.8.1
 - [Easyfig](https://mjsull.github.io/Easyfig/) v2.2.2
 - [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html) v3.4.4
 - [Gubbins](https://github.com/nickjcroucher/gubbins) v3.0.0
@@ -57,11 +58,25 @@ mlst 44383.fasta
 - AMR genes detection
 ```
 #AMRFinderPlus
-amrfinder -p 44383.faa -g 44383.gff -n 44383.fna -O 44383 --plus
+amrfinder -p 44383.faa -g 44383.gff -n 44383.fasta -O 44383 --plus
+
 #ARIBA
 ariba getref ncbi out.ncbi
 ariba prepareref -f out.ncbi.fa -m out.ncbi.tsv out.ncbi.prepareref
 ariba run out.ncbi.prepareref 44383_R1.fastq 44383_R2.fastq 44383.run
 ```
+
+- CRISPR-Cas system detection
+```
+#cctyper
+cctyper -t 60 44383.fasta crispr/44383
+
+#Get all the detetced type I-E and IV-A3 CRISPR-Cas spacers
+perl getSpacers.pl
+
+#remove redundant spacers (CD-HIT)
+cd-hit-est -i ST147.IE.spacers.fasta -o ST147.IE.spacers.unique.fasta -s 1 -aL 1
+```
+
 
 
