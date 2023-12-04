@@ -34,12 +34,15 @@ All assembled Illumina sequence data have been deposited in GenBank under the Bi
 
 ## 3. Commands
 Take the 44383 isolate as an example.
-1. Assembly
+- Assembly
   SPAdes
 ```
 spades.py -1 44383_R1.fastq.gz -2 44383_R2.fastq.gzz --cov-cutoff auto -o 44383
 ``` 
-
+- Genome annotation
+```
+prokka 44383.fasta --genus Klebsiella --species pneumoniae --prefix 44383 --outdir 44383 
+```
 
 
 
