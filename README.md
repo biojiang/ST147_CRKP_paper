@@ -22,7 +22,7 @@ This repository includes a collection of code and scripts used in the paper "Pla
 - [Gubbins](https://github.com/nickjcroucher/gubbins) v3.0.0
 - [RAxML](https://github.com/amkozlov/raxml-ng) v1.0.1
 - [BactDating](https://github.com/xavierdidelot/BactDating) v1.1
-- coda
-- iTOL v5
-- ggplot2
-- bwa
+- [minicoda](https://docs.conda.io/projects/miniconda/en/latest/) v23.1.0
+- [iTOL](https://itol.embl.de/) v5
+- [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html) v3.4.4
+- [bwa](https://bio-bwa.sourceforge.net/bwa.shtml) v0.7.17
