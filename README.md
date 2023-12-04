@@ -192,7 +192,7 @@ lg.self_IVA3 <- glm(SelfTarget_IVA~ST+Region+AcrIE8.1+AcrIE9.2+AcrIF11, family =
 summary(lg.self_IVA3)
 exp(cbind(coef(lg.self_IVA3), confint(lg.self_IVA3)))
 ```
-- Logistic regression of carbapenemases with ST, region, type IV-A3 CRISPR-Cas and anti-CRISPR proteins
+- Logistic regression of carbapenemases and ESBL CTX-M with ST, region, type IV-A3 CRISPR-Cas and anti-CRISPR proteins
 ```
 info <- read.table(file = "ST147.dedup2.txt",header = T,sep = "\t")
 #KPC
