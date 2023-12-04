@@ -11,6 +11,7 @@ This repository includes a collection of code and scripts used in the paper "Pla
 - [bwa](https://bio-bwa.sourceforge.net/bwa.shtml) v0.7.17
 - [cctyper](https://github.com/Russel88/CRISPRCasTyper) v1.8.0
 - [CD-HIT](http://weizhongli-lab.org/cd-hit/) v4.8.1
+- [coda](https://cran.r-project.org/web/packages/coda/index.html) v0.19
 - [Easyfig](https://mjsull.github.io/Easyfig/) v2.2.2
 - [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html) v3.4.4
 - [Gubbins](https://github.com/nickjcroucher/gubbins) v3.0.0
@@ -110,8 +111,25 @@ snp-sites -c gubbins.filtered_polymorphic_sites.fasta > clean.core.aln
 # build core SNP tree
 raxmlHPC -f a -x 12345 -p 12345 -# 100 -m GTRGAMMAX -s clean.core.aln -n tree
 ```
-- Dating phylogeny
+- Date phylogeny
 ```
-#BactDating
-Rscript bactdating.R arc 1e8 date.txt ./gubbins/gubbins
+#BactDating, R
+library(BactDating)
+library(coda)
+#Load date information
+date <- read.table(args[3],header=T)
+d <- date$Date
+names(d) <- date$ID
+#Load from Gubbins results
+t=loadGubbins("gubbins/gubbins")
+#run BactDating
+res <- bactdate(t,d,nbIts=1e8,useRec=T,model="arc")
+name<-paste("arc",'-','1e8','.pdf',sep="")
+rname<-paste("arc",'-','1e8','.RData',sep="")
+pdf(name)
+plot(res,'trace')
+dev.off()
+print(paste('1e8',res$dic))
+#save records
+save(res,file=rname);
 ```
