@@ -174,5 +174,70 @@ perl CombineEvidence.pl IVA3_self_targeted_spacers.carb.Direct.evidence IVA3_sel
 ```
 dereplicator.py --distance 0.0001 genome_dir derep_0.0001
 ```
+- Logistic regression of type I-E and type IV-A3 self-targeting spacers with ST, region, type IV-A3 CRISPR-Cas and anti-CRISPR proteins
+```
+#Type I-E CRISPR-Cas self targeted spacers
+self_IE <- read.table(file = "self_target_spacer_IE.txt",header = T,sep = "\t")
+self_IE <- lapply(self_IE, factor)
+self_IE$Region<- relevel(self_IE$Region, ref = "Northern_America")
+lg.self_IE <- glm(SelfTarget_IE~ST+Region+CRISPR.IV.A3+AcrIE8.1+AcrIE9.2+AcrIF11, family = binomial(), self )
+summary(lg.self_IE)
+exp(cbind(coef(lg.self_IE), confint(lg.self_IE)))
 
-
+#Type IV-A3 CRISPR-Cas self targeted spacers
+self_IVA3 <- read.table(file = "self_target_spacer_IVA3.txt",header = T,sep = "\t")
+self_IVA3 <- lapply(self_IVA3, factor)
+self_IVA3$Region<- relevel(self_IVA3$Region, ref = "Northern_America")
+lg.self_IVA3 <- glm(SelfTarget_IVA~ST+Region+AcrIE8.1+AcrIE9.2+AcrIF11, family = binomial(), self )
+summary(lg.self_IVA3)
+exp(cbind(coef(lg.self_IVA3), confint(lg.self_IVA3)))
+```
+- Logistic regression of carbapenemases with ST, region, type IV-A3 CRISPR-Cas and anti-CRISPR proteins
+```
+info <- read.table(file = "ST147.dedup2.txt",header = T,sep = "\t")
+#KPC
+KPC_data <- info[,c(2,7,9,12:15)]
+KPC_data <- lapply( KPC_data, factor)
+KPC_data$ST <- relevel(KPC_data$ST, ref = "ST147")
+KPC_data$Region <- relevel(KPC_data$Region, ref = "Northern_America")
+lg.KPC <- glm(KPC~., family = binomial(link='logit'), KPC_data )
+summary(lg.KPC)
+exp(cbind(Odds_Ratio = coef(lg.KPC), confint(lg.KPC)))
+#NDM
+NDM_data <- info[,c(3,7,9,12:15)]
+NDM_data <- lapply( NDM_data, factor)
+NDM_data$Region <- relevel(NDM_data$Region, ref = "Northern_America")
+lg.NDM <- glm(NDM~., family = binomial(), NDM_data )
+summary(lg.NDM)
+exp(cbind(coef(lg.NDM), confint(lg.NDM)))
+#OXA-48-like
+OXA_data <- info2[,c(4,7,9,12:15)]
+OXA_data <- lapply( OXA_data, factor)
+OXA_data$Region <- relevel(OXA_data$Region, ref = "Northern_America")
+lg.OXA2 <- glm(OXA.48.like~., family = binomial(), OXA_data )
+summary(lg.OXA)
+exp(cbind(coef(lg.OXA), confint(lg.OXA)))
+#CTX-M
+CTX_data <- info[,c(1,7,9,12:15)]
+CTX_data <- lapply( CTX_data, factor)
+CTX_data$Region <- relevel(CTX_data$Region, ref = "Northern_America")
+lg.CTX <- glm(CTX.M~., family = binomial(), CTX_data )
+summary(lg.CTX)
+exp(cbind(coef(lg.CTX), confint(lg.CTX)))
+```
+- Logistic regression of KPC-2 and KPC-3 with ST, region, type IV-A3 CRISPR-Cas and anti-CRISPR proteins
+```
+#KPC-2
+KPC2_info <- read.table("KPC-2.txt",header = T,sep = "\t")
+KPC2_info <- lapply( KPC2_info, factor)
+KPC2_info$Region <- relevel(KPC2_info$Region, ref = "Northern_America")
+lg.kpc2_sub <- glm(KPC2~ST+Region+CRISPR.IV.A3+AcrIE8.1+AcrIE9.2+AcrIF11, family = binomial(), KPC2_info )
+summary(lg.kpc2_sub)
+exp(cbind(coef(lg.kpc2_sub), confint(lg.kpc2_sub)))
+#KPC-3
+KPC3_info <- read.table("KPC-3.txt",header = T,sep = "\t")
+KPC3_info <- lapply( KPC3_info, factor)
+lg.kpc3_sub <- glm(KPC3~ST+Region+CRISPR.IV.A3+AcrIE8.1+AcrIE9.2+AcrIF11, family = binomial(), KPC3_info )
+summary(lg.kpc3_sub)
+exp(cbind(coef(lg.kpc3_sub), confint(lg.kpc3_sub)))
+```
