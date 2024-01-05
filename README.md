@@ -33,6 +33,7 @@ This repository includes a collection of code and scripts used in the paper "Pla
 - [Snippy](https://github.com/tseemann/snippy) v4.6.0
 - [SPAdes](https://github.com/ablab/spades) v3.13.0
 - [samtools](https://github.com/samtools/samtools) v1.16.1
+- [Unicylcer](https://github.com/rrwick/Unicycler) 0.4.9
 - [wgsim](https://github.com/lh3/wgsim)
 
 ## 2. Dataset
